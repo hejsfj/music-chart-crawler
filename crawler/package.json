@@ -1,0 +1,29 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawler for charts",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hejsfj/music-chart-prediction.git"
+  },
+  "author": "hejsfj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hejsfj/music-chart-prediction/issues"
+  },
+  "homepage": "https://github.com/hejsfj/music-chart-prediction#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "firebase": "^5.8.3",
+    "firebase-admin": "^7.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
