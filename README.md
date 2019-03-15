@@ -17,6 +17,6 @@ This code was created during an university project at the University of Mannheim
 2. Fill in your IDs and Tokens above. For Spotify please refer to: https://developer.spotify.com/documentation/general/guides/authorization-guide/
 
 3. Run npm install inside /crawler
-4. To run the code type ```bash node crawler.js ``` 
+4. To run the code type ``` node crawler.js ``` 
 
 
