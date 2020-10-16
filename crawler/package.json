@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hejsfj/music-chart-prediction#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.4",
     "firebase": "^5.8.3",
